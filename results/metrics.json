@@ -1,0 +1,10 @@
+{
+  "train_weeks": 124,
+  "test_weeks": 32,
+  "test_rmse": 2.841951806544543,
+  "test_mae": 2.248806413053504,
+  "train_mean_baseline_rmse": 3.853038662246641,
+  "test_predictive_90_coverage": 0.78125,
+  "test_predictive_90_mean_width": 8.380779917049733,
+  "negative_beta_fraction": 0.0
+}

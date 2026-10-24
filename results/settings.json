@@ -1,0 +1,21 @@
+{
+  "seed": 2026,
+  "weeks": 156,
+  "train_weeks": 124,
+  "grid_points": 51,
+  "posterior_draws": 4000,
+  "alpha": [
+    0.4,
+    0.65
+  ],
+  "beta": [
+    18.0,
+    26.0
+  ],
+  "saturation": [
+    60.0,
+    90.0
+  ],
+  "intercept": 30.0,
+  "noise_sd": 2.5
+}
